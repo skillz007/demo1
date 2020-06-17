@@ -1,2 +1,2 @@
-"#demo1" This is a traning section on my coursera
+"#demo1" This is a Traning section on my coursera
 
